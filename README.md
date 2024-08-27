@@ -1,0 +1,1 @@
+This project is about intergrating python with sql database to manage and handle the data . It is an project which handles datas(movie ticket booking) of the user and stores them in a SOL database and extracts data from  sql database to manage booking
